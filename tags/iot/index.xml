@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IoT on Securelayer7</title>
-    <link>/tags/iot/</link>
+    <link>https://securelayer7.github.io/tags/iot/</link>
     <description>Recent content in IoT on Securelayer7</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2019 SecureLayer7, LLC. All rights reserved.</copyright>
     <lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://securelayer7.github.io/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Identifying UART Pins Without a Multi-Meter (PinNinja)</title>
-      <link>/posts/identifying-uart-pins-without-a-multi-meter/</link>
+      <link>https://securelayer7.github.io/posts/identifying-uart-pins-without-a-multi-meter/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/identifying-uart-pins-without-a-multi-meter/</guid>
+      <guid>https://securelayer7.github.io/posts/identifying-uart-pins-without-a-multi-meter/</guid>
       <description>As someone who likes to tinker with hardware, we often find ourselves opening up a device to find UART pins which are originally meant for debugging and testing We often use these to connect to the device. But most of us hit a small snag here.
 Snag No 1: More often than not the pins are not labeled.
 (So you mean they put those pins there so we can test the device but didn’t tell what pin was what because they didn’t want us to test it?</description>

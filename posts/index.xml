@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Securelayer7</title>
-    <link>/posts/</link>
+    <link>https://securelayer7.github.io/posts/</link>
     <description>Recent content in Posts on Securelayer7</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2019 SecureLayer7, LLC. All rights reserved.</copyright>
     <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://securelayer7.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SecureLayer7 at RISE Conference, Hong Kong 2019</title>
-      <link>/posts/rise-conference-2019/</link>
+      <link>https://securelayer7.github.io/posts/rise-conference-2019/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/rise-conference-2019/</guid>
+      <guid>https://securelayer7.github.io/posts/rise-conference-2019/</guid>
       <description>Watch7 AuthSafe The SecureLayer7’s Watch7 AuthSafe is user and entity behavior analytics which gets integrated with applications. AuthSafe provides the account security that disallows attacker to access the account even if attacker has valid credentials.
 Watch7 LogSight The SecureLayer7’s Watch7 LogSight is a threat detection platform that finds high-quality threats in the infrastructure from logs and shares the threat details to give you the quick way of eradicating attacks in infrastructure.</description>
     </item>
     
     <item>
       <title>Identifying UART Pins Without a Multi-Meter (PinNinja)</title>
-      <link>/posts/identifying-uart-pins-without-a-multi-meter/</link>
+      <link>https://securelayer7.github.io/posts/identifying-uart-pins-without-a-multi-meter/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/identifying-uart-pins-without-a-multi-meter/</guid>
+      <guid>https://securelayer7.github.io/posts/identifying-uart-pins-without-a-multi-meter/</guid>
       <description>As someone who likes to tinker with hardware, we often find ourselves opening up a device to find UART pins which are originally meant for debugging and testing We often use these to connect to the device. But most of us hit a small snag here.
 Snag No 1: More often than not the pins are not labeled.
 (So you mean they put those pins there so we can test the device but didn’t tell what pin was what because they didn’t want us to test it?</description>

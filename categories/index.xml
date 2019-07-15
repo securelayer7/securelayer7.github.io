@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Securelayer7</title>
-    <link>/categories/</link>
+    <link>https://securelayer7.github.io/categories/</link>
     <description>Recent content in Categories on Securelayer7</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2019 SecureLayer7, LLC. All rights reserved.</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://securelayer7.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
