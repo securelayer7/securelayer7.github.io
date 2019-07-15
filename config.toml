@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://securelayer7.github.io"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
