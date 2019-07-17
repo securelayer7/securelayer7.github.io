@@ -13,6 +13,8 @@ SecureLayer7 is CERT-in accredited cybersecurity company and certified security 
 
 Unlike most cybersecurity firms, SecureLayer7 combines the best in-house developed automated solutions with an extensive manual security testing methodology based on multiple industry-tested and case-specific solutions
 
+{{< image src="https://securelayer7.net/img/company/teama.png" alt="screenshot" position="center" style="border-radius: 10px;">}}
+
 __CONTACT US:__
 
 * Email: info@securelayer7.net
