@@ -7,24 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2019 SecureLayer7, LLC. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://securelayer7.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>News</title>
-      <link>https://securelayer7.github.io/tags/news/</link>
-      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Cybersecurity</title>
+      <link>https://securelayer7.github.io/tags/cybersecurity/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://securelayer7.github.io/tags/news/</guid>
+      <guid>https://securelayer7.github.io/tags/cybersecurity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hardware</title>
       <link>https://securelayer7.github.io/tags/hardware/</link>
-      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://securelayer7.github.io/tags/hardware/</guid>
       <description></description>
@@ -33,9 +33,18 @@
     <item>
       <title>IoT</title>
       <link>https://securelayer7.github.io/tags/iot/</link>
-      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://securelayer7.github.io/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://securelayer7.github.io/tags/news/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://securelayer7.github.io/tags/news/</guid>
       <description></description>
     </item>
     

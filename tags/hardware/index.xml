@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2019 SecureLayer7, LLC. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://securelayer7.github.io/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reading data from EEPROM without desoldering</title>
+      <link>https://securelayer7.github.io/posts/reading-firmware-from-eeprom-easyway/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://securelayer7.github.io/posts/reading-firmware-from-eeprom-easyway/</guid>
+      <description>Introduction In IoT/Hardware security it is common practice of dumping firmware/bootloader data inorder to perform reverse engineering for closed source system applications.
+Well known easiest way is to download .bin/.zip (packed firmware) files from device manufacturer&amp;rsquo;s website which they provide to end users for firmware upgrade operations. And later us hackers/security researchers throw these files to reverse engineering softwares such as binwalk to check it&amp;rsquo;s contents and extract the needed stuff.</description>
+    </item>
     
     <item>
       <title>Identifying UART Pins Without a Multi-Meter (PinNinja)</title>
