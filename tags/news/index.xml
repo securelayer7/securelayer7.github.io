@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2019 SecureLayer7, LLC. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://securelayer7.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>XSS Auditor no more part of Google Chrome</title>
+      <link>https://securelayer7.github.io/posts/xss-auditor-no-more-part-of-google-chrome/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://securelayer7.github.io/posts/xss-auditor-no-more-part-of-google-chrome/</guid>
+      <description>Yes, you heard correct Google Chromium devs announced the news about XSS auditor. The XSS auditor time and again bypassed by the client security researcher to execute the malicious javascript, and this may be the primary reason to be deprecated and removed from the Google Chrome browser.
+The anti-cross site scripting engine (XSS auditor) is not covering all XSS type such as DOM-based XSS, mXSS, and persistent XSS. XSS auditor mostly working on for the reflected XSS, and this is again can be bypassed by tricking the Javascript payload.</description>
+    </item>
     
     <item>
       <title>SecureLayer7 at RISE Conference, Hong Kong 2019</title>
