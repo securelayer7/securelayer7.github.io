@@ -1,7 +1,7 @@
 +++
 title = "Reading data from EEPROM without desoldering"
 date = "2019-07-17"
-author = "CJHackerz"
+author = "CJHackerz, Shubham Chougule"
 cover = "img/IMG_20190716_121835.jpg"
 tags = ["IoT", "Hardware", "Cybersecurity"]
 description = "EEPROM is read-only non-volatile memory whose contents can be erased and reprogrammed using a pulsed voltage often time used in embedded systems (network routers) and smart IoT devices. EEPROM holds firmware data and bootloader, in this post we will explore non-destructive way to read data from EEPROM for security assements purposes."
